@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/softlap.ru/static/css/main.2638eade.css",
+    "main.js": "/softlap.ru/static/js/main.103276c1.js",
+    "static/js/453.5cd658a2.chunk.js": "/softlap.ru/static/js/453.5cd658a2.chunk.js",
+    "index.html": "/softlap.ru/index.html",
+    "main.2638eade.css.map": "/softlap.ru/static/css/main.2638eade.css.map",
+    "main.103276c1.js.map": "/softlap.ru/static/js/main.103276c1.js.map",
+    "453.5cd658a2.chunk.js.map": "/softlap.ru/static/js/453.5cd658a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2638eade.css",
+    "static/js/main.103276c1.js"
+  ]
+}
